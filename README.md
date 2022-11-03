@@ -2,7 +2,14 @@
 
 ![](https://camo.githubusercontent.com/87c0241be85ca2be42708cc329284aead15b9844a06450a4e4f333ea8c55abbb/68747470733a2f2f666c79626f6e64692e636f6d2f6173736574732f696d616765732f6c6f676f2e737667)
 
-## Description
+## Links 🔗
+
+- [App link 🚀](https://flybondi-adventures-g5pkd64x3-gonzaloarielrossi.vercel.app/)
+
+- [Back-End Repo 🖥️](https://github.com/GonzaloArielRossi/flybondi-adventures-backend)
+- [Front-End Repo 🧑‍💻](https://github.com/GonzaloArielRossi/flybondi-adventures)
+
+## Description 📃
 
 This project derives from the "Interview challenge for full stack developers" posted by Flybondi, an Argentinian low-cost airline.
 [(Challenge Repo)](https://github.com/flybondi/dev-challenge)
