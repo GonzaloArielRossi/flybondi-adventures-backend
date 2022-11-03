@@ -48,7 +48,7 @@ Flight:
 
 After the user "throws" a dart, the app will return all trips available from the city of origin that depart the month the user selected. Trips can go from 2 days long to 60 days long. Results are sorted by total cost (low to high).
 
-## TECH STACKS
+## TECH STACKS ⚙️
 
 Front end
 
