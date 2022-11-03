@@ -1,4 +1,4 @@
-# Flybondi Adventures
+# Flybondi Adventures ✈️
 
 ![](https://camo.githubusercontent.com/87c0241be85ca2be42708cc329284aead15b9844a06450a4e4f333ea8c55abbb/68747470733a2f2f666c79626f6e64692e636f6d2f6173736574732f696d616765732f6c6f676f2e737667)
 
@@ -18,7 +18,7 @@ The original idea was to make a simple flight search interface for an old lady t
 
 I decided to take this a step further and created a clone of Flybondi's UI and came up with the concept of "Flybondi Adventures" a flight search engine that allows you to find "random" flights based on your budget. Kind of a "throw a dart at the map" vibe.
 
-The original challenge provided a JSON with flights, but I decided to create my own backend server with a custom database. It consists of a list of all the Argentinian airports that Flybondi operates on, and a list of randomly generated trips that I created with a script.
+The original challenge provided a JSON with flights, but I decided to create my own backend server with a custom database. It consists of a list of all the Argentinian airports that Flybondi operates on, and a list of randomly generated flights that I created with a script.
 
 ```
 Airport:
