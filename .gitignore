@@ -1,0 +1,5 @@
+node_modules/
+*.env
+helpers/database.js
+helpers/generateFlights.js
+helpers/flights.json
