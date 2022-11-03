@@ -14,7 +14,7 @@
 This project derives from the "Interview challenge for full stack developers" posted by Flybondi, an Argentinian low-cost airline.
 [(Challenge Repo)](https://github.com/flybondi/dev-challenge)
 
-The original idea was to make a simple flight search interface for an old lady that has no particular destiny in mind but it's on a budget.
+The original idea was to make a simple flight search interface for a person that has no particular destiny in mind but it's on a budget.
 
 I decided to take this a step further and created a clone of Flybondi's UI and came up with the concept of "Flybondi Adventures" a flight search engine that allows you to find "random" flights based on your budget. Kind of a "throw a dart at the map" vibe.
 
